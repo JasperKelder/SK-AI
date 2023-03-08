@@ -17,7 +17,12 @@
 	<ul>
 		<li>
 			<a href="/">Eli5</a>
+		</li>
+		<li>
 			<a href="/chat">Chat</a>
+		</li>
+		<li>
+			<a href="/enhance">Enhance</a>
 		</li>
 	</ul>
 </nav>
